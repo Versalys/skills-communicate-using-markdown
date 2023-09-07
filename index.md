@@ -7,3 +7,7 @@ print("Hello world!")
 if my_sanity==0:
   print("don't resuscitate")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
